@@ -7,4 +7,4 @@ This repository contains my work for the AI Programming course.
 ## Projects
 Lab 1: First AI Agent (coming soon)
 ## Author
-Your Name
+Abbas R
