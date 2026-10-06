@@ -1,0 +1,54 @@
+
+
+  {
+    "resources": [
+     {
+    "name": "Hultquist Library",
+    "aliases": ["library", "JCC library", "Hultquist", "learning commons library"],
+    "location": "Hultquist Library, Jamestown Campus",
+    "hours": "See the official JCC Libraries page for current semester and daily hours.",
+    "phone": "716-338-1008",
+    "email": "",
+    "website": "https://www.sunyjcc.edu/support/learning-commons/library",
+    "description": "The JCC library provides research resources, databases, borrowing services, reference assistance, and help with writing and citations.",
+    "verified_by": "Official Jamestown Community College website",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "name": "Learning Center",
+    "aliases": ["tutoring", "tutoring center", "tutor", "peer tutoring", "academic support"],
+    "location": "HULT Floor 1, Learning Commons, Jamestown Campus",
+    "hours": "Contact the Learning Center or check the official JCC website for current hours.",
+    "phone": "716-338-1008",
+    "email": "",
+    "website": "https://www.sunyjcc.edu/support/learning-commons/learning-center",
+    "description": "The Learning Center provides one-on-one peer tutoring, study groups, study-skills assistance, workshops, and Brightspace and online-learning help.",
+    "verified_by": "Official Jamestown Community College website",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "name": "Academic Advising",
+    "aliases": ["advising", "advisor", "academic advisor", "advisement", "success center"],
+    "location": "COCE Floor 1, Success Center, Jamestown Campus",
+    "hours": "Contact the Success Center or check the official JCC website for current hours.",
+    "phone": "716-338-1065",
+    "email": "successcenter@mail.sunyjcc.edu",
+    "website": "https://www.sunyjcc.edu/support/success-center/advising",
+    "description": "Academic advising helps students develop academic, career, and transfer plans and connect with resources that support their educational goals.",
+    "verified_by": "Official Jamestown Community College website",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "name": "Financial Aid & Billing",
+    "aliases": ["financial aid", "FAFSA", "billing", "financial aid office", "student bill"],
+    "location": "COCE Floor 1, Jamestown Campus",
+    "hours": "Contact Financial Aid & Billing or check the official JCC website for current hours.",
+    "phone": "716-338-1009",
+    "email": "FinancialAid@sunyjcc.edu",
+    "website": "https://www.sunyjcc.edu/support/financial-aid-billing",
+    "description": "Financial Aid & Billing helps students understand their bills, financial aid, payment requirements, and certificate of residence requirements.",
+    "verified_by": "Official Jamestown Community College website",
+    "last_verified": "2026-10-05"
+  }
+ ]
+}
